@@ -1,0 +1,15 @@
+<resources>
+  <string name="action_example">العمل سبيل المثال</string>
+  <string name="action_settings">إعدادات</string>
+  <string name="action_change_units">وحدات التغيير</string>
+  <string name="symbol_search">رمز البحث</string>
+  <string name="content_test">بحث عن الأوراق المالية رمز</string>
+  <string name="input_hint">FB</string>
+  <string name="input_prefill"></string>
+  <string name="already_Saved">يتم حفظ هذه الأسهم بالفعل!</string>
+  <string name="input_button">إضافة أسهم جديدة</string>
+  <string name="network_toast">اه اوه! هذا التطبيق يتطلب اتصال بالإنترنت</string>
+  <string name="Invalid_stock">رمز السهم صالح !!!</string>
+  <string name="no_quotes">يقتبس لا المخزون المتوفر !!!</string>
+  <string name="graph">خط الرسم البياني للسهم</string>
+</resources>
